@@ -77,7 +77,7 @@ const Sidebar = () => {
                 alignItems="center"
                 ml="15px"
               >
-                <Typography varian="h3" color={colors.grey[100]}>
+                <Typography variant="h3" color={colors.grey[100]}>
                   ADMINS
                 </Typography>
                 <IconButton onClick={() => setIsCollapsed(!isCollapsed)}>
@@ -91,7 +91,7 @@ const Sidebar = () => {
             <Box mb="25px">
               <Box display="flex" justifyContent="center" alignItems="center">
                 <img
-                  alt="user-picture"
+                  alt="user-avatar"
                   width="100px"
                   height="100px"
                   src={`../../assets/user.jpg`}
