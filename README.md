@@ -1,4 +1,4 @@
-# Admin Panel with Reeact
+# Admin Panel with React
 
 <blockquote>
 
